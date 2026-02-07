@@ -4,27 +4,27 @@ This project is an interactive Power BI dashboard designed to analyze business p
 
 ##Features
 
-KPI cards for Total Revenue, Total Profit, Orders, and Customers
+ - KPI cards for Total Revenue, Total Profit, Orders, and Customers
 
-Profit and sales analysis across regions and categories
+ - Profit and sales analysis across regions and categories
 
-Time-based analysis using YTD, MTD, and trend visuals
+ - Time-based analysis using YTD, MTD, and trend visuals
 
-Forecasting using Power BI AI visuals
+ - Forecasting using Power BI AI visuals
 
-Anomaly detection to identify unusual patterns
+ - Anomaly detection to identify unusual patterns
 
-Dedicated Q&A/Insights page for business questions
+ - Dedicated Q&A/Insights page for business questions
 
 ##Tools & Technologies
 
-Power BI
+ - Power BI
 
-DAX Measures
+ - DAX Measures
 
-Power Query (ETL)
+ - Power Query (ETL)
 
-AI Visuals (Forecast & Anomaly Detection)
+ - AI Visuals (Forecast & Anomaly Detection)
 
 ##Purpose
 
